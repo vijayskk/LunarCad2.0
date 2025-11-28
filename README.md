@@ -40,6 +40,7 @@
 
   * Why we use PCBs
   * Different layers of a PCB (Important)
+  * What is schematics and footprint
   * Manufacturing methods and costs
   * Best manufacturing options
 * TO BE FILLED
@@ -79,6 +80,7 @@
 ## Chapter 5 - Designing Arduino in EasyEDA
 
 * Searching and selecting components
+* Creating custom components
 * Wiring up the circuit
 * Converting it to PCB and placing components
 * Anyone can use their brains and come up with an optimal design. But for reference, see this placement diagram [here](PCB_PCB1_2025-11-28.pdf)
