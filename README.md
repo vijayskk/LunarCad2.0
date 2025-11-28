@@ -1,10 +1,11 @@
 # LunarCad 2.0 Schedule
 
-## Some Common Plans
+## Things we have to give
 
-- Provide all the schematics and other files
-- Provide the suitable drivers for CP2102. 
-- Keep the hands on session to last.
+* Provide the components and materials
+* Provide the list of component codes in EasyEDA
+* Provide all the schematics and other files
+* Provide the suitable drivers for the CP2102
 
 ## Chapter 0 - Welcome
 
