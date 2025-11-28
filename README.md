@@ -3,7 +3,7 @@
 ## Things we have to give
 
 * Provide the components and materials
-* Provide the list of component codes in EasyEDA
+* Provide the list of component codes in EasyEDA [here](COMPONENT.md)
 * Provide all the schematics and other files
 * Provide the suitable drivers for the CP2102
 
