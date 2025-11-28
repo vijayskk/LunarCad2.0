@@ -1,5 +1,11 @@
 # LunarCad 2.0 Schedule
 
+## Some Common Plans
+
+- Provide all the schematics and other files
+- Provide the suitable drivers for CP2102. 
+- Keep the hands on session to last.
+
 ## Chapter 0 - Welcome
 
 * Basic welcome procedures
@@ -100,7 +106,7 @@
 ## Chapter 8 - Preparing the New Board for the First Program
 
 * Burning the bootloader using Arduino as ISP
-* Programming the new Arduino with CP2102 USB-Serial
+* Programming the new Arduino with CP2102 USB-Serial. Driver is [Here](pololu-cp2102-windows-220616.zip)
 * Running the first program
 
 ## Bonus Chapter
